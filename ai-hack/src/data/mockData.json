@@ -1,0 +1,13 @@
+{
+  "student": {
+    "name": "Vijay Singh Rajput",
+    "streak": 12,
+    "totalDays": 60,
+    "missedDays": 1,
+    "achievements": ["Consistency Star", "Top 10%"],
+    "todayTask": "Build a responsive landing page using React."
+  },
+  "days": [
+    { "id": 12, "title": "Responsive Landing Page", "description": "Design and code a mobile-first landing page.", "github": "", "linkedin": "" }
+  ]
+}
